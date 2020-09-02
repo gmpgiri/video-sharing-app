@@ -10,6 +10,7 @@ html {
 }
 
 .app__videos {
+  border-radius: 20px;
   position: relative;
   height: 800px;
   overflow: scroll;
